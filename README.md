@@ -10,7 +10,7 @@ I deploy everything I build — Docker, Kubernetes, CI/CD, the whole thing.
 
 I've got a few pinned projects below, my favorites are the [Micro-Vous](https://github.com/greeen-11/) microservices platform and the [Intelligent Podcast Assistant](https://github.com/greeen-11/) RAG pipeline.
 
-Currently finishing my engineering degree at ENSAM (AI & Computer Science) and heading to **Paris-Saclay** next year for an M2 in Data & Hybrid AI.
+Currently finishing my engineering degree at ENSAM (AI & Computer Science) and heading to **France** next year.
 
 I'm looking for a **12-month apprenticeship starting Sept 2026** — open to Data Science, Full Stack, or ML Engineering roles.
 
