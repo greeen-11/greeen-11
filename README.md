@@ -8,7 +8,7 @@ My main tech stack is Python, Java/Spring Boot, Django, and React. On the AI sid
 
 I deploy everything I build — Docker, Kubernetes, CI/CD, the whole thing.
 
-I've got a few pinned projects below, my favorites are the [Micro-Vous]([https://github.com/greeen-11/](https://github.com/greeen-11/micro-RendezVous)) microservices platform and the [Intelligent Podcast Assistant](https://github.com/greeen-11/) RAG pipeline.
+I've got a few pinned projects below, my favorites are the [Micro-Vous]([https://github.com/greeen-11/micro-RendezVous]) microservices platform and the [Intelligent Podcast Assistant](https://github.com/greeen-11/) RAG pipeline.
 
 Currently finishing my engineering degree at ENSAM (AI & Computer Science) and heading to **France** next year.
 
