@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2B5797&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there+%F0%9F%91%8B+I'm+Aymen+Elkhdar;Engineering+Student+%7C+AI+%26+Full+Stack+Dev" alt="Typing SVG" />
 
 <!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
