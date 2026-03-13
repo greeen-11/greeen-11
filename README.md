@@ -51,6 +51,6 @@ I'm looking for a **12-month apprenticeship starting Sept 2026** — open to Dat
 
 ---
 
-📫 **Reach me:** [aymen.elkhdar@ensam-casa.ma](mailto:aymen.elkhdar@ensam-casa.ma) · [LinkedIn](https://www.linkedin.com/in/aymen-elkhdar-5188732b1)
+📫 **Reach me:** [elkhdarayman4@gmail.com](mailto:aymen.elkhdar@ensam-casa.ma) · [LinkedIn](https://www.linkedin.com/in/aymen-elkhdar-5188732b1)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=greeen-11&color=2B5797&style=flat-square&label=visitors)
